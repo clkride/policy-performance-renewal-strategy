@@ -10,17 +10,21 @@
 </a>
 
 # Policy Performance Analysis
-Provide data-driven insights to support decision-making for the performance of various insurance policies and design effective renewal marketing campaigns.
+Aim - 
+1. Provide data-driven insights to support decision-making for the performance of various insurance policies
+2. To analyze the relative performance of renewal offers to determine effective marketing campaigns
 
 ## Table of Contents
 - [About Data Set](#about-data-set)
 - [Project Description](#project-description)
+- [Key Business Insights](#key-business-insights)
+- [PowerBI Dashboard](#powerbi-dashboard)
 - [Author](#author)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## About Data Set
-* **Title**: Auto Insurance Marketing Analysis (with social/economic context)
+* **Title**: Auto Insurance Marketing Analysis (with customer demographics)
 * **Number of Rows**: 9134
 * **Number of Columns**: 24
 
@@ -78,6 +82,14 @@ In this project,
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## PowerBI Dashboard
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Key Business Insights
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Author
  @[Abbas S.](https://github.com/clkride)
