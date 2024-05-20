@@ -22,7 +22,7 @@ Provide data-driven insights to support decision-making for the performance of v
 ## About Data Set
 This dataset represents customer information for a hypothetical insurance company from January 2011 to February 2011, including various attributes related to their insurance policies and personal details. It also includes responses to offers made for policy renewal and the effective dates of those policies.
 
-## Dataset Columns
+### Dataset Columns
 1. **Customer:** A unique identifier for each customer.
 2. **State:** The state where the customer resides.
 3. **Customer Lifetime Value:** The total value a customer brings to the company over their lifetime.
@@ -50,7 +50,7 @@ This dataset represents customer information for a hypothetical insurance compan
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Sample Rows
+### Sample Rows
 Here are a few sample rows from the dataset:
 
 | Coverage | Education         | Effective To Date | EmploymentStatus | Gender | Income | Location Code | Marital Status | Monthly Premium Auto | Months Since Last Claim | Months Since Policy Inception | Number of Open Complaints | Number of Policies | Policy Type   | Policy      | Renew Offer Type | Sales Channel | Total Claim Amount | Vehicle Class  | Vehicle Size |
@@ -73,6 +73,12 @@ Here are a few sample rows from the dataset:
 | Basic    | Bachelor          | 17-Jan-11         | Employed         | F      | 24599  | Rural         | Married        | 64                   | 12                      | 50                           | 1                         | 2                  | Corporate Auto | Corporate L2 | Offer2           | Branch        | 42.920271          | Four-Door Car  | Medsize      |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Project Description
+In this project, 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Author
  @[Abbas S.](https://github.com/clkride)
