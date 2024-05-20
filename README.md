@@ -24,7 +24,7 @@ Aim -
 - [Acknowledgments](#acknowledgments)
 
 ## Project Description
-This project aims to empower insurance stakeholders with actionable insights derived from a meticulously crafted Power BI dashboard. By leveraging comprehensive data analytics, the dashboard provides a holistic view of policy performance, customer behavior, and campaign effectiveness. 
+This project empowers insurance stakeholders with actionable insights derived from a meticulously crafted Power BI dashboard. By leveraging comprehensive data analytics, the dashboard provides a holistic view of policy performance, customer behavior, and campaign effectiveness. 
 
 From executive summaries highlighting key performance indicators to granular claim analysis and campaign performance evaluations, each section offers invaluable insights tailored to support strategic decision-making, optimize risk management strategies, and enhance customer satisfaction. With intuitive visualization tools and interactive data exploration features, this dashboard serves as a powerful tool for driving business growth and fostering a data-driven culture within the insurance organization.
 
