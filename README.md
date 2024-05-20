@@ -37,7 +37,8 @@ From executive summaries highlighting key performance indicators to granular cla
 
 This dataset represents customer information for a hypothetical insurance company from January 2011 to February 2011, including various attributes related to their insurance policies and personal details. It also includes responses to offers made for policy renewal and the effective dates of those policies.
 
-This data set is one of the publicly available datasets from IBM at the following link: https://www.ibm.com/communities/analytics/watson-analytics-blog/marketing-customer-value-analysis/ and is publicly available for research.
+This data set is one of the publicly available datasets from IBM and is publicly available for research.
+Link: https://www.ibm.com/communities/analytics/watson-analytics-blog/marketing-customer-value-analysis/ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
