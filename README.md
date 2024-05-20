@@ -15,13 +15,18 @@ Aim -
 2. To analyze the relative performance of renewal offers to determine effective marketing campaigns
 
 ## Table of Contents
-- [About Data Set](#about-data-set)
 - [Project Description](#project-description)
-- [Key Business Insights](#key-business-insights)
+- [About Data Set](#about-data-set)
 - [PowerBI Dashboard](#powerbi-dashboard)
+- [Key Business Insights](#key-business-insights)
 - [Author](#author)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+
+## Project Description
+In this project, 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## About Data Set
 * **Title**: Auto Insurance Marketing Analysis (with customer demographics)
@@ -77,10 +82,6 @@ Here are a few sample rows from the dataset:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Project Description
-In this project, 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## PowerBI Dashboard
 
