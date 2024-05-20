@@ -22,7 +22,7 @@ Provide data-driven insights to support decision-making for the performance of v
 ## About Data Set
 This dataset represents customer information for a hypothetical insurance company from January 2011 to February 2011, including various attributes related to their insurance policies and personal details. It also includes responses to offers made for policy renewal and the effective dates of those policies.
 
-### Dataset Columns
+### Column Description
 1. **Customer:** A unique identifier for each customer.
 2. **State:** The state where the customer resides.
 3. **Customer Lifetime Value:** The total value a customer brings to the company over their lifetime.
