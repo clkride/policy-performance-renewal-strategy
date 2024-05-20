@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/clkride/Amazon_Sales_Analytics?style=flat-square)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/clkride/Amazon_Sales_Analytics?style=flat-square)
-![GitHub contributors](https://img.shields.io/github/contributors/clkride/Amazon_Sales_Analytics?style=flat-square)
-![GitHub watchers](https://img.shields.io/github/watchers/clkride/Amazon_Sales_Analytics?style=flat-square)
-![GitHub Repo stars](https://img.shields.io/github/stars/clkride/Amazon_Sales_Analytics?style=flat-square)
-![GitHub License](https://img.shields.io/github/license/clkride/Amazon_Sales_Analytics?style=flat-square)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/clkride/policy-performance-renewal-strategy?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/clkride/policy-performance-renewal-strategy?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/clkride/policy-performance-renewal-strategy?style=flat-square)
+![GitHub watchers](https://img.shields.io/github/watchers/clkride/policy-performance-renewal-strategy?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/clkride/policy-performance-renewal-strategy?style=flat-square)
+![GitHub License](https://img.shields.io/github/license/clkride/policy-performance-renewal-strategy?style=flat-square)
 <a href="https://linkedin.com/in/abbas-singapurwala">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
