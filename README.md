@@ -124,8 +124,6 @@ This dashboard is structured into four main sections:
 
 ## Key Business Insights
 
-Of course! Here are the single-line bullet points for each business insight along with their potential utility for the business:
-
 1. **Insight for Revising Outreach Strategies** - Only 14% of customers responded to marketing calls
 2. **Insight for Prioritizing Offer Types in Marketing Campaigns** - Offer Type 2 boasts the highest engagement rate
 3. **Insight for Tailoring Sales Approaches** - Medium-sized vehicle customers show consistent engagement across sales channels
