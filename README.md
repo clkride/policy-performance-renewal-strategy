@@ -87,6 +87,38 @@ Here are a few sample rows from the dataset:
 
 ## PowerBI Dashboard
 
+This dashboard is structured into four main sections:
+
+1. **Executive Summary:**
+   - Objective: To provide a high-level overview of key performance indicators (KPIs) and customer demographics, aiding in understanding overall policy performance and customer segmentation.
+   - Insights:
+     - Performance KPIs: Claims count, premium revenue, average policy size, and loss ratio, giving an overview of financial performance and risk exposure.
+     - Customer Demographics: Distribution of policyholders by education, employment status, gender, and marital status, providing insights into our customer base.
+     - Premium Distribution: Breakdown of premium revenue by insurance plan, highlighting the popularity of different coverage options.
+     - Comparison Analysis: Comparing claim and premium amounts by vehicle size, identifying any patterns or discrepancies in risk distribution.
+
+2. **Claim Analysis Dashboard:**
+   - Objective: To delve deeper into claim-related metrics, enabling a detailed analysis of claim frequency, severity, and distribution, alongside claim cost analysis.
+   - Insights:
+     - Loss Ratio: Trend analysis of loss ratio over time, indicating the effectiveness of risk management strategies.
+     - Claim Frequency and Severity: Understanding the frequency and severity of claims helps in assessing risk exposure and setting appropriate premiums.
+     - Claim Distribution: Visualizing the distribution of claims by various factors such as policy type, location, or vehicle class, identifying areas of high claim occurrence.
+     - Claim Cost Analysis: Analyzing the cost associated with each claim type or category, aiding in cost management and resource allocation.
+
+3. **Campaign Performance Analysis:**
+   - Objective: To evaluate the performance of renewal offers across different sales channels and customer segments based on policy age and customer lifetime value (CLV).
+   - Insights:
+     - Offer Performance: Comparison of renewal offer acceptance rates and revenue generation across sales channels, guiding future campaign strategies.
+     - Segment Analysis: Analyzing offer performance based on policy age segments and CLV tiers, identifying segments with the highest response rates and revenue potential.
+     - Campaign Effectiveness: Assessing the ROI of each renewal offer campaign, ensuring efficient allocation of marketing resources and maximizing customer retention.
+
+4. **Data Table:**
+   - Objective: To provide a detailed data table with summary metrics and interactive filters, facilitating data exploration and export for further analysis.
+   - Insights:
+     - Summary Metrics: Displaying key metrics such as total claims, premium revenue, and loss ratio for easy reference.
+     - Data Filtering: Allowing stakeholders to slice and dice the data based on various dimensions such as policy type, location, or customer demographics.
+     - Export Functionality: Enabling stakeholders to export the filtered data for in-depth analysis or external reporting purposes, promoting data-driven decision-making.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
