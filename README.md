@@ -126,16 +126,16 @@ This dashboard is structured into four main sections:
 
 Of course! Here are the single-line bullet points for each business insight along with their potential utility for the business:
 
-1. Only 14% of customers responded to marketing calls - **Insight for Revising Outreach Strategies**
-2. Offer Type 2 boasts the highest engagement rate - **Insight for Prioritizing Offer Types in Marketing Campaigns**
-3. Medium-sized vehicle customers show consistent engagement across sales channels - **Insight for Tailoring Sales Approaches**
-4. Agent sales yield the highest customer responses, followed by web sales - **Insight for Resource Allocation in Sales Channels**
-5. High Policy Age Segment customers exhibit greater engagement - **Insight for Targeted Marketing to High-Age Policyholders**
-6. Basic policy type constitutes over two-thirds of all claims - **Insight for Adjusting Coverage Options**
-7. Employed individuals file the most claims compared to other employment types - **Insight for Occupational Risk Assessment**
-8. Despite low claim frequency, the loss ratio ranges between 75% and 90% - **Insight for Profitability Analysis and Risk Management**
-9. Basic and Extended policy options generate over 80% of premium revenue - **Insight for Pricing Strategy Focus**
-10. Large vehicle size segment reports the highest loss ratio, exceeding average premiums - **Insight for Pricing and Coverage Adjustment in Vehicle Segments**
+1. **Insight for Revising Outreach Strategies** - Only 14% of customers responded to marketing calls
+2. **Insight for Prioritizing Offer Types in Marketing Campaigns** - Offer Type 2 boasts the highest engagement rate
+3. **Insight for Tailoring Sales Approaches** - Medium-sized vehicle customers show consistent engagement across sales channels
+4. **Insight for Resource Allocation in Sales Channels** -  Agent sales yield the highest customer responses, followed by web sales
+5. **Insight for Targeted Marketing to High-Age Policyholders** - High Policy Age Segment customers exhibit greater engagement
+6. **Insight for Adjusting Coverage Options** - Basic policy type constitutes over two-thirds of all claims
+7. **Insight for Occupational Risk Assessment** - Employed individuals file the most claims compared to other employment types
+8. **Insight for Profitability Analysis and Risk Management** - Despite low claim frequency, the loss ratio ranges between 75% and 90% 
+9. **Insight for Pricing Strategy Focus** - Basic and Extended policy options generate over 80% of premium revenue
+10. **Insight for Pricing and Coverage Adjustment in Vehicle Segments** - Large vehicle size segment reports the highest loss ratio, exceeding average premiums
     
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
