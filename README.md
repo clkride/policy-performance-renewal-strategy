@@ -103,7 +103,7 @@ This dashboard is structured into four main sections:
      - Loss Ratio: Trend analysis of loss ratio over time, indicating the effectiveness of risk management strategies.
      - Claim Frequency and Severity: Understanding the frequency and severity of claims helps in assessing risk exposure and setting appropriate premiums.
      - Claim Distribution: Visualizing the distribution of claims by various factors such as policy type, location, or vehicle class, identifying areas of high claim occurrence.
-     - Claim Cost Analysis: Analyzing the cost associated with each claim type or category, aiding in cost management and resource allocation.
+     - Claim Cost Analysis: Analyzing the tred of avg. cost per claim associated with each policy type or category, aiding in cost management and resource allocation.
 
 3. **Campaign Performance Analysis:**
    - Objective: To evaluate the performance of renewal offers across different sales channels and customer segments based on policy age and customer lifetime value (CLV).
@@ -115,7 +115,7 @@ This dashboard is structured into four main sections:
 4. **Data Table:**
    - Objective: To provide a detailed data table with summary metrics and interactive filters, facilitating data exploration and export for further analysis.
    - Insights:
-     - Summary Metrics: Displaying key metrics such as total claims, premium revenue, and loss ratio for easy reference.
+     - Summary Metrics: Displaying key metrics such as total claims, offer distribution, and response count for easy reference.
      - Data Filtering: Allowing stakeholders to slice and dice the data based on various dimensions such as policy type, location, or customer demographics.
      - Export Functionality: Enabling stakeholders to export the filtered data for in-depth analysis or external reporting purposes, promoting data-driven decision-making.
 
