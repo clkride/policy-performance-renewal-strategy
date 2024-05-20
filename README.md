@@ -88,6 +88,7 @@ Here are a few sample rows from the dataset:
 
 ## PowerBI Dashboard
 
+Link - [Dashboard](https://github.com/clkride/policy-performance-renewal-strategy/blob/main/Dashboard/Xjardins%20Performance%20Analysis%20Dashboard.pbix)
 This dashboard is structured into four main sections:
 
 1. **Executive Summary:**
